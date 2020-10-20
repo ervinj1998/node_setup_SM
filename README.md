@@ -13,3 +13,4 @@
 - [ ] step  11: Change Directory the repository `cd node_setup`
 - [ ] step  12:  `./pos..{tab_key}` starts the post-installer
 # node_setup_SM
+# node_setup_SM
